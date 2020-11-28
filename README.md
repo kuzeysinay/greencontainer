@@ -18,7 +18,7 @@
   <img width="186" height="378" src="https://i.imgur.com/dGAX6HA.png[/img]">
 </p>
 
-
+# (TURKISH)
 # Yeşil Kap
 
   Yeşil Kap, bir mikrodenetleyici devresi içeren saklama kabı ve onun mobil uygulaması ile; gıda israfını azaltmayı amaçlar.
