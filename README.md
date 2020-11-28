@@ -29,9 +29,13 @@
   Saklama kabının mobil uygulaması, ilk olarak kullanıcıdan Wi-Fi ağının adını ve şifresini talep eder; böylelikle saklama kabının devresindeki Wi-Fi modülü internete bağlanabilir. Sonra, Wi-Fi modülü saklama kabının içindeki gaz miktarını "thingspeak.com"a gönderir. Thingspeak bu veriden yola çıkarak bir grafik hazırlar, ve bu grafik mobil uygulamada gösterilir.
  
 
+<p align="center">
+  <img width="186" height="378" src="https://i.imgur.com/qucnyZj.png[/img]">
+</p>
 
-<img align="right" width="186" height="378" src="https://i.imgur.com/qucnyZj.png[/img]">
-<img align="left" width="186" height="378" src="https://i.imgur.com/dGAX6HA.png[/img]">
+<p align="center">
+  <img width="186" height="378" src="https://i.imgur.com/dGAX6HA.png[/img]">
+</p>
 
 
 
