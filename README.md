@@ -8,7 +8,7 @@ A microcontroller circuit in the food container sets the color of RGB LED by the
 
 I have tested the circuit. I have consciously let two kind of dish to spoil in the food container with circuit. Color of the LED succesfully changed into red from the green by the time, as the dish spoiles. But still i am not sure if some kind of dishes which doesn't produces any gas as it spoiles would make the LED red too.
 
-# Yesil Kap
+# Yeşil Kap
 
 Yeşil Kap, bir mikrodenetleyici devresi içeren saklama kabı ve onun mobil uygulaması ile; gıda israfını azaltmayı amaçlar.
 
