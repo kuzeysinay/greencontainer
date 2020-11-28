@@ -31,9 +31,6 @@
 
 <p align="center">
   <img width="186" height="378" src="https://i.imgur.com/qucnyZj.png[/img]">
-</p>
-
-<p align="center">
   <img width="186" height="378" src="https://i.imgur.com/dGAX6HA.png[/img]">
 </p>
 
