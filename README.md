@@ -32,4 +32,6 @@
   <img width="186" height="378" src="https://i.imgur.com/dGAX6HA.png[/img]">
 </p>
 
+<p align="center">
   *Mobile app is just front-end and for Android for now.*
+</p> 
