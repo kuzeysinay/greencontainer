@@ -1,8 +1,8 @@
 # Green Food Container
 
-Green Food Container aims reducing food wasting with a mobile app and a food container with microcontroller.
+Green Food Container aims reducing food wastage with a mobile app and a commercial food container with a microcontroller circuit inside.
 
-The food container tries to detect the amount of spoilage of a food product by the amount of gases that produced by the food such as methane, CO2 and more.
+The food container circuit tries to detect the amount of spoilage of a food product by the amount of gases that produced by the food such as methane, CO2 and more.
 
 A microcontroller circuit in the food container sets the color of RGB LED by the spoilage amount of food, red to green. Circuit also have a Wi-Fi module for the mobile app of project. Mobile app have a graph of the amount of spoilage either.
 
