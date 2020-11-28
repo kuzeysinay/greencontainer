@@ -10,10 +10,10 @@ I have tested the circuit. I have consciously let two kind of dish to spoil in t
 
 # Yesil Kap
 
-Yesil Kap, bir mikrodenetleyici devresi içeren saklama kabi ve onun mobil uygulamasi ile; gida israfini azaltmayi amaçlar.
+Yeşil Kap, bir mikrodenetleyici devresi içeren saklama kabı ve onun mobil uygulaması ile; gıda israfını azaltmayı amaçlar.
 
-Saklama kabi, yemegin bozulma miktarini ürünün salgiladigi metan ve karbondioksit gibi gazlarin miktarini algilayarak tespit etmeye çalisir.
+Saklama kabı, yemeğin bozulma miktarını ürünün salgıladığı metan ve karbondioksit gibi gazlarin miktarini algılayarak tespit etmeye çalışır.
 
-Saklama kabinin içindeki mikrodenetleyici devresi yemegin bozulma miktarina bagli olarak saklama kabinin üstündeki RGB LED'in rengini yesilden kirmiziya çevirir. Devre ayrica, mobil uygulama için bir Wi-Fi modülü içerir. Ayrica, mobil uygulama yemegin bozulma miktarini gösteren bir grafige sahiptir.
+Saklama kabının içindeki mikrodenetleyici devresi yemeğin bozulma miktarına bağlı olarak saklama kabının üstündeki RGB LED'in rengini yeşilden kırmızıya çevirir. Devre ayrıca, mobil uygulama için bir Wi-Fi modülü içerir. Ek olarak, mobil uygulama yemeğin bozulma miktarını gösteren bir grafiğe sahiptir.
 
-Devreyi test ettim. Iki tür yemegi bilinçli olarak saklama kabinin içinde bozulmaya terk ettim. LED'in rengi, basarili bir sekilde yesilden kirmiziya döndü. Fakat hala, bozuldugunda gaz salgilamayan yemek türlerinin de bu sistem ile çalisip çalismayacagindan emin degilim.
+Devreyi test ettim. İki tür yemeği bilinçli olarak saklama kabının içinde bozulmaya terk ettim. LED'in rengi, başarılı bir şekilde yeşilden kırmızıya döndü. Fakat hala, bozulduğunda gaz salgılamayan yemek türlerinin de bu sistem ile çalışıp çalışmayacağından emin degilim.
