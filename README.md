@@ -33,5 +33,7 @@
 </p>
 
 <p align="center">
-  *Mobile app is just front-end and for Android for now.*
+  <i>
+  Mobile app is just front-end and for Android for now.
+  <i>
 </p> 
