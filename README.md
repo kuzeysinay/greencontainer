@@ -1,6 +1,6 @@
 # Green Container
 
-  Green Container aims reducing food wastage with a mobile app and a commercial food container product with a microcontroller circuit inside.
+  Green Container aims reducing food wastage and spoilage with a mobile app and a commercial food container product with a microcontroller circuit inside.
   
   <p align="center">
   <img width="900" height="600" src="https://i.imgur.com/LuPSUeP.png[/img]">
