@@ -1,6 +1,6 @@
 # Green Food Container
 
-Green Food Container is a project that aims reducing food wasting with a mobile app and a food container with microcontroller.
+Green Food Container aims reducing food wasting with a mobile app and a food container with microcontroller.
 
 The food container tries to detect the amount of spoilage of a food product by the amount of gases that produced by the food such as methane, CO2 and more.
 
