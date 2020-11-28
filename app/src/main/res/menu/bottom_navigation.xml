@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_graph"
+        android:icon="@drawable/graph_icon"
+        android:title="Grafik" />
+
+    <item
+        android:id="@+id/nav_cable"
+        android:icon="@drawable/cable_icon"
+        android:title="Bağlantı"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Ayarlar"/>
+
+
+</menu>

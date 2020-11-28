@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yeşil Kap</string>
+    <string name="net_name">Ağ Adı</string>
+    <string name="net_password">Şifre</string>
+    <string name="connection_ask">Telefonun bağlantı kablosunu saklama kabına taktın mı?</string>
+    <string name="connect"> Bağlan</string>
+</resources>
