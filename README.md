@@ -17,3 +17,10 @@ Saklama kabı, yemeğin bozulma miktarını ürünün salgıladığı metan ve k
 Saklama kabının içindeki mikrodenetleyici devresi yemeğin bozulma miktarına bağlı olarak saklama kabının üstündeki RGB LED'in rengini yeşilden kırmızıya çevirir. Devre ayrıca, mobil uygulama için bir Wi-Fi modülü içerir. Ek olarak, mobil uygulama yemeğin bozulma miktarını gösteren bir grafiğe sahiptir.
 
 Devreyi test ettim. İki tür yemeği bilinçli olarak saklama kabının içinde bozulmaya terk ettim. LED'in rengi, başarılı bir şekilde yeşilden kırmızıya döndü. Fakat hala, bozulduğunda gaz salgılamayan yemek türlerinin de bu sistem ile çalışıp çalışmayacağından emin degilim.
+
+
+# Mobile App 
+
+
+![](https://imgur.com/qucnyZj)
+![](https://imgur.com/dGAX6HA)
