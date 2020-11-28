@@ -23,4 +23,4 @@ Devreyi test ettim. İki tür yemeği bilinçli olarak saklama kabının içinde
 
 
 ![](https://imgur.com/qucnyZj)
-![](https://imgur.com/dGAX6HA)
+![](https://i.imgur.com/dGAX6HA.png[/img])
