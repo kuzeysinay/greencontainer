@@ -22,6 +22,4 @@ Devreyi test ettim. İki tür yemeği bilinçli olarak saklama kabının içinde
 # Mobile App 
 
 
-![]([https://i.imgur.com/qucnyZj.png)
-
 ![](https://i.imgur.com/dGAX6HA.png)
