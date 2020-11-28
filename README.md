@@ -25,9 +25,11 @@
   Mobile app of container firstly requests the name and password of the Wi-Fi network from the user, so the Wi-Fi module at the circuit would be able to connect internet. After that, Wi-Fi module starts to send the data of gas amounts in the container to the "thingspeak.com". Thingspeak makes a graph from the data that it receives, and mobile app shows that graph. 
   So the user would be informed about the spoilage amount of the dish, and tries to eat it before it spoiles. 
   
-  *Mobile app is just front-end and for Android for now.*
- 
+
+
 <p align="center">
   <img width="186" height="378" src="https://i.imgur.com/qucnyZj.png[/img]">
   <img width="186" height="378" src="https://i.imgur.com/dGAX6HA.png[/img]">
 </p>
+
+  *Mobile app is just front-end and for Android for now.*
