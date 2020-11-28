@@ -7,6 +7,7 @@
 </p>
 
 # Microcontroller Circuit Inside the Food Container
+  
   The food container circuit tries to detect the amount of spoilage of a food product by the amount of gases that produced by the food such as methane, CO2 and more.
   
   Circuit detects the amount of gases with MQ-4 gas sensor, which detects methane mainly. This selection has been made after the researchs of the gas types that rotten foods produces.
@@ -16,6 +17,9 @@
 
 <p align="center">
   <img width="720" height="330" src="https://i.imgur.com/5AzL1vC.png[/img]">
+</p>
+<p align="center">
+  <i> Arduino Uno is used as microcontroller. <i>
 </p>
 
   I have tested the circuit. I have consciously let two kind of dish to spoil in the food container with circuit. Color of the LED succesfully changed into red from the green by the time, as the dish spoiles. But still i am not sure if some kind of dishes which doesn't produces any gas as it spoiles would make the LED red too.
