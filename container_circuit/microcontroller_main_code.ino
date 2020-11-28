@@ -3,8 +3,6 @@ String wifi_password ="xyz";
 String IP ="xyz";
 float gas;
 
-
-
 #define green 5      // 5 is the pin for green 
 #define red 7  //7 is the pin for red
 
@@ -32,10 +30,6 @@ void setup(){
      delay(5000);
  }
 
-
-
-
-
 }
 
 void loop(){
@@ -51,9 +45,6 @@ void loop(){
   
   analogWrite(green, 255 - methane_value);  // if methane value is 0, so the food is fresh, the green leg of LED will be full 
   analogWrite(red, 255- methane_value);  // if methane value is 255, so the food is spoiled, the red lef of LED will be full
-  
-  
-  
   
   float gas = analogRead(methane); 
  Serial.println(gas);
@@ -90,8 +81,4 @@ void loop(){
  else{
  Serial.println("AT+CIPCLOSE");
  }
-
-
-
-
 }
