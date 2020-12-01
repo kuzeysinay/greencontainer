@@ -48,12 +48,12 @@ void loop(){
   
   float gas = analogRead(methane); 
  Serial.println(gas);
- sicaklik_yolla(gas);
- // dakikada 1 güncellenmesi için 1 dakika bekle
+ send_data(gas);
+
  delay(500);
 }
   
-   void sicaklik_yolla(float gas){
+   void send_data(float gas){
  Serial.println(String("AT+CIPSTART=\"TCP\",\"") + IP + "\",80");  // This line is for connecting ThingSpeak server
                                                                    // requesting allowance for connecting the server 
                                                                    
